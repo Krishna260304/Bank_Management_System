@@ -1,4 +1,4 @@
-# 🏦 Bank Management System (Java + MySQL Console App)
+# 🏦 Bank Management System
 
 A simple **Bank Management System** built in **Java** with **MySQL** integration, featuring a command-line interface. Perform operations such as account creation, editing, deletion, transactions, and transaction history lookup efficiently.
 
